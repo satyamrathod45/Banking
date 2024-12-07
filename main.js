@@ -19,7 +19,6 @@ const loginSection = document.getElementById("login-section");
       const backDepositButton = document.getElementById("back-deposit-button");
       // User Data
       const userData = {
-        satyamrathod: { pass: "1234", balance: 1000 },
         user: { pass: "1234", balance: 1000 },
       };
       // Backend Handling
